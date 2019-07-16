@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Food</h2>
+
+<ul>
+  <li>FRIES</li>
+  <li>CHICKEN</li>
+  <li>CHOC MILK</li>
+</ul>  
+
+<h2>subjects</h2>
+
+<ol>
+  <li>math</li>
+  <li>pe</li>
+  <li>english</li>
+</ol> 
+
+</body>
+</html>
